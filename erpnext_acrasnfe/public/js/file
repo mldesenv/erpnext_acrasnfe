@@ -1,0 +1,4 @@
+frappe.ui.form.on("Purchase Invoice", "on_submit", function(frm){
+
+
+    })
